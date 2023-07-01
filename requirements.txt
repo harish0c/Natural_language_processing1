@@ -1,0 +1,40 @@
+blinker==1.6.2
+Brotli @ file:///D:/bld/brotli-split_1687884251065/work
+certifi==2023.5.7
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1678108872112/work
+click @ file:///D:/bld/click_1666798499870/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+dataclasses @ file:///home/conda/feedstock_root/build_artifacts/dataclasses_1628958434797/work
+filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1686612785345/work
+Flask==2.3.2
+fsspec==2023.6.0
+huggingface-hub==0.15.1
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1687138353019/work
+itsdangerous==2.1.2
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1654302431367/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1687965927691/work
+MarkupSafe @ file:///D:/bld/markupsafe_1685769253528/work
+mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1678228039184/work
+networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1680692919326/work
+numpy @ file:///D:/bld/numpy_1687056489905/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1681337016113/work
+protobuf==4.23.2
+PySocks @ file:///D:/bld/pysocks_1661604991356/work
+PyYAML @ file:///D:/bld/pyyaml_1666772623553/work
+regex @ file:///D:/bld/regex_1685823634231/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
+sacremoses==0.0.43
+safetensors==0.3.1
+sentencepiece==0.1.99
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1684180539862/work
+tokenizers==0.13.0.dev0
+torch==2.0.1
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1677948868469/work
+transformers==4.28.1
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1687998981955/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1688005749963/work
+Werkzeug==2.3.6
+win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1677313463193/work
